@@ -1,7 +1,8 @@
 ![Welcome Header](header.png)
 
 # 💫 About Me:
-👋 Hey, I’m Saad Ali Rizvi — a growing full-stack dev who loves turning ideas into smooth, functional apps.<br>⚡ Working mainly with Java (Spring Boot) on the backend and React on the frontend.<br>🗄️ Comfortable with MongoDB / SQL, building APIs, and structuring clean data flows.<br>🎨 I also bring a designer’s touch with my background in graphics & UI/UX, making interfaces feel natural.<br>🧠 Always building, breaking, fixing, and learning one project at a time.<br>🚀 On a journey to become a solid full-stack engineer who delivers clean code and clean designs.
+Hi, I’m Saad 👋
+I’m a full-stack developer who enjoys building clean and functional web apps.I mainly work with Java (Spring Boot) for the backend and React for the frontend. I’m comfortable working with databases like MongoDB and SQL, and I like designing APIs and keeping data flow simple and organized.I also have a background in graphics and UI/UX, so I care about how things look and feel—not just how they work.
 
 
 ## 🌐 Socials:
@@ -27,9 +28,9 @@
 <img src="https://skillicons.dev/icons?i=ps,ai,figma"/>
 </p>
 
-- Resources
+- Tools & Resources
 <p align="left">
-<img src="https://skillicons.dev/icons?i=github,git,vscode,anaconda,netbeans"/>
+<img src="https://skillicons.dev/icons?i=github,git,vscode,anaconda"/>
 </p>
 
 
