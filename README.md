@@ -1,8 +1,7 @@
 ![Welcome Header](header.png)
 
 # 💫 About Me:
-Hi, I’m Saad 👋
-I’m a full-stack developer who enjoys building clean and functional web apps.I mainly work with Java (Spring Boot) for the backend and React for the frontend. I’m comfortable working with databases like MongoDB and SQL, and I like designing APIs and keeping data flow simple and organized.I also have a background in graphics and UI/UX, so I care about how things look and feel—not just how they work.
+Hi, I’m Saad. I’m a full-stack developer focused on building clean, reliable, and user-friendly web applications. I primarily work with Java and Spring Boot on the backend and React on the frontend, with experience in MongoDB and SQL for designing structured and efficient data systems. Alongside development, I bring a strong sense of design from my background in graphics and UI/UX, which helps me create interfaces that are not only functional but also intuitive and visually balanced. I’m continuously learning through hands-on projects, improving my problem-solving skills, and aiming to write code that is both maintainable and thoughtfully designed.
 
 
 ## 🌐 Socials:
