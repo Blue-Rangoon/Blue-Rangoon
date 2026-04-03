@@ -32,20 +32,18 @@ Hi, I’m Saad. I’m a full-stack developer focused on building clean, reliable
 <img src="https://skillicons.dev/icons?i=github,git,vscode,anaconda"/>
 </p>
 
+## 📊 GitHub Analytics
 
-# 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blue-Rangoon&theme=chartreuse_dark)
 
-## 🏆 GitHub Trophies
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Blue-Rangoon&theme=chartreuse_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Blue-Rangoon&theme=chartreuse_dark)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Blue-Rangoon&theme=chartreuse_dark)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=charteuse-dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Blue-Rangoon&theme=chartreuse_dark&utcOffset=8)
 
-### 🔝 Top Contributed Repo
-![]((http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Blue-Rangoon&theme=chartreuse_dark))
+<!-- ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=charteuse dark)) -->
 
----
-[![](https://visitcount.itsvg.in/api?id=Blue-Rangoon&icon=6&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
