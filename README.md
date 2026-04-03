@@ -14,7 +14,7 @@
 
 - Programming Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,py,java,dart,mysql,kotlin,firebase,mongodb"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,py,java,dart,kotlin,mysql,firebase,mongodb"/>
 </p>
 
 - Frameworks
@@ -29,7 +29,7 @@
 
 - Resources
 <p align="left">
-<img src="https://skillicons.dev/icons?i=github,git"/>
+<img src="https://skillicons.dev/icons?i=github,git,vscode,anaconda,netbeans"/>
 </p>
 
 
