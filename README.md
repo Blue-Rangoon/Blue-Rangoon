@@ -1,4 +1,4 @@
-![Welcome Header](header.png)
+![Welcome Header](welcome-header.png)
 
 # 💫 About Me: 
 
