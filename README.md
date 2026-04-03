@@ -34,16 +34,16 @@ Hi, I’m Saad. I’m a full-stack developer focused on building clean, reliable
 
 
 # 📊 GitHub Stats:
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blue-Rangoon&theme=chartreuse_dark)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Blue-Rangoon&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Blue-Rangoon&theme=chartreuse_dark)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=charteuse-dark)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Blue-Rangoon&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![]((http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Blue-Rangoon&theme=chartreuse_dark))
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Blue-Rangoon&icon=6&color=0)](https://visitcount.itsvg.in)
