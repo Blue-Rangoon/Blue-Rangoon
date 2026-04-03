@@ -8,61 +8,30 @@
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-website-link.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tssmc56203@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-ali-rizvi)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/blue-rangoon)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Blue-Rangoon)
 
-# 💻 Tech Stack:
+# 💻 Skill Stack:
 
-- Languages
-<p align="center">
+- Programming Languages
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,py,java,dart,mysql,kotlin,firebase,mongodb"/>
 </p>
 
 - Frameworks
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=flask,spring,react,flutter,bootstrap"/>
 </p>
 
 - Graphics & UI/UX
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ps,ai,canva,figma"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=ps,ai,figma"/>
 </p>
 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/googlecloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=flat&logo=netlify&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+- Resources
+<p align="left">
+<img src="https://skillicons.dev/icons?i=github,git"/>
+</p>
 
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=61DAFB)
-![SASS](https://img.shields.io/badge/sass-hotpink.svg?style=flat&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![WordPress](https://img.shields.io/badge/wordpress-%23117AC9.svg?style=flat&logo=wordpress&logoColor=white)
-
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/apachemaven-C71A36?style=flat&logo=apache-maven&logoColor=white)
-
-![Microsoft SQL Server](https://img.shields.io/badge/mssql-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-
-![Adobe Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/lightroom-31A8FF.svg?style=flat&logo=adobelightroom&logoColor=white)
-![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=flat&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-
-![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=FF7139)
-
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epic-games&logoColor=white)
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riot-games&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Blue-Rangoon&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
