@@ -34,7 +34,7 @@ Hi, I’m Saad. I’m a full-stack developer focused on building clean, reliable
 
 
 # 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Blue-Rangoon&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
