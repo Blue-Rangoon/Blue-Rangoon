@@ -34,9 +34,6 @@ Hi, I’m Saad. I’m a full-stack developer focused on building clean, reliable
 
 ## 📊 GitHub Analytics
 
-![Metrics](https://metrics.lecoq.io/Blue-Rangoon?template=classic&code=1&projects=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&code=false&code.lines=10&code.load=400&code.days=3&code.visibility=public&projects=false&projects.limit=4&projects.descriptions=true&config.timezone=Asia%2FKarachi)
-
-
 <table>
   <tr>
     <td>
