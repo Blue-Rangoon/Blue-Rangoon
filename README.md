@@ -3,6 +3,7 @@
 # 💫 About Me:
 Hi, I’m Saad. I’m a full-stack developer focused on building clean, reliable, and user-friendly web applications. I primarily work with Java and Spring Boot on the backend and React on the frontend, with experience in MongoDB and SQL for designing structured and efficient data systems. Alongside development, I bring a strong sense of design from my background in graphics and UI/UX, which helps me create interfaces that are not only functional but also intuitive and visually balanced. I’m continuously learning through hands-on projects, improving my problem-solving skills, and aiming to write code that is both maintainable and thoughtfully designed.
 
+![Repo Gif](github gif.gif)
 
 ## 🌐 Socials:
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-website-link.com)
