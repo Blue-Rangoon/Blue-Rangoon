@@ -34,9 +34,7 @@ Hi, I’m Saad. I’m a full-stack developer focused on building clean, reliable
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Blue-Rangoon&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Blue-Rangoon&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blue-Rangoon&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Blue-Rangoon&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
