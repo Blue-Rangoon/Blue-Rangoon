@@ -1,4 +1,6 @@
-header.png
+# 👋 Welcome to My Profile
+![Welcome Header](header.png)
+
 
 # 💫 About Me:
 👋 Hey, I’m Saad Ali Rizvi — a growing full-stack dev who loves turning ideas into smooth, functional apps.<br>⚡ Working mainly with Java (Spring Boot) on the backend and React on the frontend.<br>🗄️ Comfortable with MongoDB / SQL, building APIs, and structuring clean data flows.<br>🎨 I also bring a designer’s touch with my background in graphics & UI/UX, making interfaces feel natural.<br>🧠 Always building, breaking, fixing, and learning one project at a time.<br>🚀 On a journey to become a solid full-stack engineer who delivers clean code and clean designs.
