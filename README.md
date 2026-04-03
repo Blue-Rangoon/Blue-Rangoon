@@ -11,8 +11,20 @@
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/blue-rangoon)
 
 # 💻 Tech Stack:
+
+- Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,py,java,flask,spring,react,bootstrap,flutter,mysql,ps,ai,figma,canva,git,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=html,css,js,py,java,dart,mysql,kotlin,firebase,mongodb"/>
+</p>
+
+- Frameworks
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flask,spring,react,flutter,bootstrap"/>
+</p>
+
+- Graphics & UI/UX
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ps,ai,canva,figma"/>
 </p>
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white)
@@ -51,6 +63,7 @@
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epic-games&logoColor=white)
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riot-games&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Blue-Rangoon&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Blue-Rangoon&theme=tokyonight&hide_border=false)<br/>
