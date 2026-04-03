@@ -34,16 +34,35 @@ Hi, I’m Saad. I’m a full-stack developer focused on building clean, reliable
 
 ## 📊 GitHub Analytics
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blue-Rangoon&theme=chartreuse_dark)
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blue-Rangoon&theme=chartreuse_dark" />
+    </td>
+  </tr>
+</table>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Blue-Rangoon&theme=chartreuse_dark)
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Blue-Rangoon&theme=chartreuse_dark" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Blue-Rangoon&theme=chartreuse_dark" />
+    </td>
+  </tr>
+</table>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Blue-Rangoon&theme=chartreuse_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Blue-Rangoon&theme=chartreuse_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Blue-Rangoon&theme=chartreuse_dark&utcOffset=8)
-
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Blue-Rangoon&theme=chartreuse_dark" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Blue-Rangoon&theme=chartreuse_dark&utcOffset=8" />
+    </td>
+  </tr>
+</table>
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=charteuse dark)) -->
 
