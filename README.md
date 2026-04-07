@@ -36,22 +36,38 @@ Hi, I’m Saad. I’m a full-stack developer focused on building clean, reliable
 <img src="https://skillicons.dev/icons?i=github,git,vscode,anaconda"/>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Blue-Rangoon &theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Blue-Rangoon &theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blue-Rangoon &theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Analytics
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Blue-Rangoon &theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blue-Rangoon&theme=chartreuse_dark" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Blue-Rangoon&theme=chartreuse_dark" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Blue-Rangoon&theme=chartreuse_dark" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Blue-Rangoon&theme=chartreuse_dark" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Blue-Rangoon&theme=chartreuse_dark&utcOffset=8" />
+    </td>
+  </tr>
+</table>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Blue-Rangoon &limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Blue-Rangoon &icon=1&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
