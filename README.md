@@ -68,7 +68,7 @@ Hi, I’m Saad. I’m a full-stack developer focused on building clean, reliable
   </tr>
 </table>
 
-### 🏆 Top Repositories
+<!--### 🏆 Top Repositories
 <a href="https://github.com/Blue-Rangoon/AI-Project">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blue-Rangoon&repo=AI-Project&show_owner=true&theme=chartreuse_dark" />
 </a>
@@ -76,7 +76,7 @@ Hi, I’m Saad. I’m a full-stack developer focused on building clean, reliable
 ### ⭐ Stars & Forks
 <img src="https://github-readme-stats.vercel.app/api?username=Blue-Rangoon&show_icons=true&count_private=true&hide=issues&theme=chartreuse_dark" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blue-Rangoon&theme=chartreuse_dark" />
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+-->
 
 
 
