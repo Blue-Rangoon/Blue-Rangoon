@@ -41,7 +41,7 @@ Hi, I’m Saad. I’m a full-stack developer focused on building clean, reliable
 <table>
   <tr>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blue-Rangoon&theme=chartreuse_dark" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blue-Rangoon&theme=chartreuse_dark" />
     </td>
   </tr>
 </table>
@@ -49,10 +49,10 @@ Hi, I’m Saad. I’m a full-stack developer focused on building clean, reliable
 <table>
   <tr>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Blue-Rangoon&theme=chartreuse_dark" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Blue-Rangoon&theme=chartreuse_dark" />
     </td>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Blue-Rangoon&theme=chartreuse_dark" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Blue-Rangoon&theme=chartreuse_dark" />
     </td>
   </tr>
 </table>
@@ -60,13 +60,25 @@ Hi, I’m Saad. I’m a full-stack developer focused on building clean, reliable
 <table>
   <tr>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Blue-Rangoon&theme=chartreuse_dark" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Blue-Rangoon&theme=chartreuse_dark" />
     </td>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Blue-Rangoon&theme=chartreuse_dark&utcOffset=8" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Blue-Rangoon&theme=chartreuse_dark&utcOffset=8" />
     </td>
   </tr>
 </table>
+
+### 🏆 Top Repositories
+<a href="https://github.com/Blue-Rangoon/AI-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blue-Rangoon&repo=AI-Project&show_owner=true&theme=chartreuse_dark" />
+</a>
+
+### ⭐ Stars & Forks
+<img src="https://github-readme-stats.vercel.app/api?username=Blue-Rangoon&show_icons=true&count_private=true&hide=issues&theme=chartreuse_dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Blue-Rangoon&theme=chartreuse_dark" />
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
