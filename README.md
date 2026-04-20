@@ -70,6 +70,26 @@ Hi, I’m Saad. I’m a full-stack developer focused on building clean, reliable
   </tr>
 </table>
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-activity-graph.vercel.app/graph?username=Blue-Rangoon&theme=transparent&hide_border=true&bg_color=0a0a0f&color=7fff00&line=7fff00&point=7fff00&area=true&area_color=7fff0020" alt="activity graph" />
+</p>
+
+---
+
+## 📝 Featured Projects
+
+| Project | Description | Tech Stack | Stars |
+|---------|-------------|------------|-------|
+| [Social Media Downloader](https://github.com/Blue-Rangoon) | Download videos/audios from social platforms | Flask, HTML5, JS | ⭐ |
+| [Smart Delivery Route Planner AI](https://github.com/Blue-Rangoon/Smart-Delivery-Route-Planner-AI) | AI-powered delivery route optimization | Flask, JavaScript, SQLite | ⭐ |
+| [E-Commerce Storefront](https://github.com/Blue-Rangoon/velora-threads-store) | Modern e-commerce with cart & animations | HTML5, CSS3, JavaScript | ⭐ |
+| [AI Resume Builder](https://github.com/Blue-Rangoon) | AI-powered resume builder with PDF export | Flask, HTML5, SQLite | ⭐ |
+| [Crypto Portfolio Dashboard](https://github.com/Blue-Rangoon/Crypto-Portfolio-Dashboard) | Real-time crypto portfolio tracker | Spring Boot, HTML, JS | ⭐ |
+
+---
+
 <!--### 🏆 Top Repositories
 <a href="https://github.com/Blue-Rangoon/AI-Project">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blue-Rangoon&repo=AI-Project&show_owner=true&theme=chartreuse_dark" />
