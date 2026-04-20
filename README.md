@@ -73,7 +73,7 @@ Hi, I’m Saad. I’m a full-stack developer focused on building clean, reliable
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=Blue-Rangoon&theme=transparent&hide_border=true&bg_color=0a0a0f&color=7fff00&line=7fff00&point=7fff00&area=true&area_color=7fff0020" alt="activity graph" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=Blue-Rangoon&theme=transparent&hide_border=true&bg_color=0a0a0f&color=7fff00&line=7fff00&point=7fff00&area=true&area_color=00e5ff20" alt="activity graph" />
 </p>
 
 ---
