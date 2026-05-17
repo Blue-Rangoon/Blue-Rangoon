@@ -105,3 +105,14 @@ Hi, I’m Saad. I’m a full-stack developer focused on building clean, reliable
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+---
+
+<div align="center">
+
+**Stalk me on...**
+
+[![GitHub followers](https://img.shields.io/github/followers/Blue-Rangoon?style=social)](https://github.com/Blue-Rangoon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=social&logo=linkedin)](https://linkedin.com/in/saad-ali-rizvi/)
+</div>
+
+
