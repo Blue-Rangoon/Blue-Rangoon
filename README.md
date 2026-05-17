@@ -82,10 +82,10 @@ Hi, I’m Saad. I’m a full-stack developer focused on building clean, reliable
 
 | Project | Description | Tech Stack | Stars |
 |---------|-------------|------------|-------|
-| [Social Media Downloader](https://github.com/Blue-Rangoon) | Download videos/audios from social platforms | Flask, HTML5, JS | ⭐ |
+| [Poly Ops Tactical Shooter Game](https://github.com/Blue-Rangoon/Poly-Ops-Tactical-Shooter) | Low poly browser based FPS game | Typescript, HTML5, JS | ⭐ |
 | [Smart Delivery Route Planner AI](https://github.com/Blue-Rangoon/Smart-Delivery-Route-Planner-AI) | AI-powered delivery route optimization | Flask, JavaScript, SQLite | ⭐ |
-| [E-Commerce Storefront](https://github.com/Blue-Rangoon/velora-threads-store) | Modern e-commerce with cart & animations | HTML5, CSS3, JavaScript | ⭐ |
-| [AI Resume Builder](https://github.com/Blue-Rangoon) | AI-powered resume builder with PDF export | Flask, HTML5, SQLite | ⭐ |
+| [Modern OSINT Tool Dashboard](https://github.com/Blue-Rangoon/The-Evidence-Room-OSINT) | Open-Source OSINT and tracking dashboard | HTML5, CSS3, JavaScript, Flask | ⭐ |
+| [Speed Type Test](https://github.com/Blue-Rangoon/Flask-WPM-Typing-Program) | Speed typing test and WPM counter | Flask, HTML5, CSS3, JS | ⭐ |
 | [Crypto Portfolio Dashboard](https://github.com/Blue-Rangoon/Crypto-Portfolio-Dashboard) | Real-time crypto portfolio tracker | Spring Boot, HTML, JS | ⭐ |
 
 ---
